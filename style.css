@@ -1,0 +1,25 @@
+.header {
+    color: white;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(125, 155, 80);
+}
+
+.name {
+    float: left;
+    padding: 10px 50px;
+}
+
+.bio {
+    float: center;
+    margin: 
+
+}
+
+.contactInfo {
+    float: right;
+    margin: 0 auto;
+    padding: 100px 180px;
+    clear
+}
